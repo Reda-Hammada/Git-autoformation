@@ -13,6 +13,7 @@ git init repo name
 git remote add name Repos Url in github  
 git clone Repo Url   
 git branch  
+git checkout  
 
 
 
