@@ -10,6 +10,8 @@ git config --global color.branch auto
 git config --global core.editor notepad++    
 git config --global merge.tool vimdiff    
 git init <repo name>  
+git remote add <name> <Repos Url in github>  
+
 
 
 
