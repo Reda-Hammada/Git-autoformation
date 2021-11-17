@@ -7,8 +7,9 @@ git config --list
 git config --global color.diff auto    
 git config --global color.status auto   
 git config --global color.branch auto  
-$ git config --global core.editor notepad++  
-$ git config --global merge.tool vimdiff   
+git config --global core.editor notepad++    
+git config --global merge.tool vimdiff    
+git init <repo name>  
 
 
 
