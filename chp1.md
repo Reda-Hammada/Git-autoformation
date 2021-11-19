@@ -16,6 +16,7 @@ git branch
 git checkout  
 git commit -m "message"  
 git push  
+git pull    
  
 
 
