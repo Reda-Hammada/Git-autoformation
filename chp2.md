@@ -6,5 +6,5 @@ git stash
 git stash apply  
 git log  
 git reset --hard HEAD ^  
- 
+git reset  
 
