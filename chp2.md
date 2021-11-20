@@ -8,5 +8,6 @@ git checkout the branch name
 git stash apply  
 git stash list  
 git stash apply stash@{0}  
-git log  
+git log   
+
 
