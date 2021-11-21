@@ -17,7 +17,7 @@ git reset --hard HEAD ^
 git reset  --hard the commit code  
 git commit --amend -m "yourmessage"  
 git add ForgetFile.txt  to add a forgotten file to be committed 
-git commit --amend   
+git commit --amend  --no-edit     
 git reset --hard  
 git reset --mixed  
 git reset --soft  
