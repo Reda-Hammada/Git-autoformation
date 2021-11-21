@@ -15,11 +15,7 @@ git clone Repo Url
 git branch  
 git checkout  
 git commit -m "message"  
-git push  
- 
-
-
-
+git commit --amend -m "update"
 
 
 

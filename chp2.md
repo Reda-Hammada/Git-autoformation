@@ -9,5 +9,10 @@ git stash apply
 git stash list  
 git stash apply stash@{0}  
 git log   
+git stash apply  
+git log  
+git reset --hard HEAD ^  
+git reset  --hard the commit code  
+git commit --amend -m "yourmessage"  
 
 
