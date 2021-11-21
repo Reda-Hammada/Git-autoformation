@@ -24,7 +24,8 @@ git reset --soft
 git revert  
 git blame  
 git cherry-pick  
-git test 2  
+
+
 
 
 
