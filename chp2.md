@@ -22,6 +22,10 @@ git reset --hard
 git reset --mixed  
 git reset --soft  
 git revert  
+git blame  
+git cherry-pick  
+git test  
+
 
 
 
