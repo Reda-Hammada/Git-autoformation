@@ -1,4 +1,4 @@
-#Chapter 2 :  
+# Chapter 2 :  
 
 git add  
 git reflog  
@@ -18,6 +18,9 @@ git reset  --hard the commit code
 git commit --amend -m "yourmessage"  
 git add ForgetFile.txt  to add a forgotten file to be committed 
 git commit --amend   
+git reset --hard  
+git reset --mixed  
+git reset --soft  
 git revert  
 
 
