@@ -1,3 +1,5 @@
+# Chapter 1 :  
+
 git help    
 git config --global user.name "Reda Hammada"  
 git config --global user.email "email@example.com"  
@@ -15,7 +17,9 @@ git clone Repo Url
 git branch  
 git checkout  
 git commit -m "message"  
-git commit --amend -m "update"
+git commit --amend -m "update"  
+git commit --amend -m "update"  
+
 
 
 
