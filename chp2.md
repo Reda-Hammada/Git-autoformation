@@ -8,5 +8,5 @@ git log
 git reset --hard HEAD ^  
 git reset  --hard the commit code  
 git commit --amend -m "yourmessage"  
-
-
+git revert HEAD ^  
+  
